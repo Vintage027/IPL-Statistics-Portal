@@ -8,7 +8,7 @@
 The Indian Premier League (IPL) is a men's Twenty20 (T20) cricket league held annually in India. Founded by the BCCI (the Board of Control for Cricket in India) in 2007, the league features ten state or city-based franchise teams. The IPL 
 usually takes place during the summer, between March and May each year. 
 
-<h4>Existing platforms that provide IPL statistics </h4>
+<h4> Existing platforms that provide IPL statistics </h4>
 
 Several platforms provide detailed statistics for the Indian Premier League (IPL). These platforms are valuable for 
 analysts, and professionals looking to get detailed insights into player performances, team statistics, and match
@@ -20,7 +20,7 @@ outcomes. Here are some of the main platforms:
 <li>Cricbuzz etc.</li>
 </ul>    
 
-* Problem Definition:
+<h4> Problem Definition </h4>
   
  1: Lack of advanced analytical tools:
 
@@ -35,7 +35,7 @@ Solution: This Mini project solves the problem by adding various options such as
 <img src="https://play-lh.googleusercontent.com/Xq9wyC3MoB-a4ggOCtjIq7Hc5vp0qwaQc63-tu-CWLb_Cu8zB7MbDjZftlGCXJBqm3E" alt="ESPN CricInfo" height="250" width="270">   <img src="https://play-lh.googleusercontent.com/B8l_f_fZK0AxNaT9PumOhvQYH3rI8TNotT5n_z6uYb3P-hbwMEF_eiFUtXSITNhpFNs" alt="IPL Official Website" height="250" width="270"> <img src="https://play-lh.googleusercontent.com/Q3mUXMkM63Z-Dh5YCasJtTEkU6r7kLyn8m6b3-2-MwdK6jlZnxTRXrRstdMAahKLrg" alt="Cricbuzz" height="250" width="270"> 
 
 
-* Objectives:
+<h4> Objectives: </h4>
   
    To develop an interactive platform for IPL statistics.
 
@@ -43,10 +43,11 @@ Solution: This Mini project solves the problem by adding various options such as
 
    To provide personalized insights based on user preferences.
 
-* Snapshot of the Model:
-  ![image](https://github.com/user-attachments/assets/cfc0ff8f-14eb-4843-be94-302a0f06f642)
+<h4> Snapshot of the Model </h4>
 
-* Conclusion:
+![image](https://github.com/user-attachments/assets/cfc0ff8f-14eb-4843-be94-302a0f06f642)
+
+<h4> Conclusion </h4>
 This project has been developed using Python programming language with some of the libraries imported into the code such as streamlit, pandas etc and also CSV files for the database. The aim of this project is to build an interactive IPL statistics portal. For example: To get the information about Player's orange cap, Purple Cap, Points Table, Teams Qualified, Most wins etc. This includes Data visualization, extraction etc.
 </body>
 </html>
